@@ -1,6 +1,6 @@
 'use strict';     /*그냥 js문서엔 이걸 맨 위에 넣어줘!*/
 
-//1.Variable (변수선언방법)
+//1.Variable (변수선언방법) r/w(read와 write 둘다 가능!)
 let personname = 'Sumin'; /* let이라는 함수를 이용해 name이라는 변수를 선언, 변수 name에 Sumin이라는 값을 할당. 변수를 선언할 수 있는 유일한 키워드*/
 console.log(personname);
 
@@ -25,7 +25,7 @@ let globalName = 'global name'; //global scope : 블록을 쓰지 않고 파일 
 
 
 
-//2.Constant 
+//2.Constant r(read만 가능!)
 // : 한번 할당하면 값이 절대 바뀌지 않는 것-> immutable data type임 
 // cf) mutable data type : 할당해도 값을 바꿔줄 수 있는 애 ex)let
 
