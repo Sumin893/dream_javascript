@@ -180,6 +180,12 @@ for (let i = 0; i < 10; i++) {
 //Quiz
 //break(loop를 아예 끝내는 것), continue(지금꺼만 skip)
 
+
+
+
+
+
+
 //Q1. iterate form 0 to 10 and print only even numbers (use continue)
 for (let i =0; i < 11; i++) {
   if (i % 2 !== 0) {
