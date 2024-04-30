@@ -1,3 +1,5 @@
+'use strict';
+
 // 1. String concatenation
 console.log('my' + ' cat'); //string 더하기 string
 console.log('1' + 2); //string 더하기 num이지만 num을 자동으로 string 취급

@@ -1,3 +1,5 @@
+'use strict';
+
 //Function
 // fundimental building block in the program (프로그램을 구성하는 중요한 building block)
 // subprogram can be used multiple times (subprogram이라고도 불리고 여러번 재사용이 가능함.)
