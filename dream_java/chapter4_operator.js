@@ -2,7 +2,7 @@
 
 // 1. String concatenation
 console.log('my' + ' cat'); //string 더하기 string
-console.log('1' + 2); //string 더하기 num이지만 num을 자동으로 string 취급
+console.log('1' + 2 ); //string 더하기 num이지만 num을 자동으로 string 취급
 console.log(`string literals: 1 + 2 = ${1 + 2}`); //$셀을 이용.  
 
 console.log("Sumin's \n \tbook");  // \n:세로 줄바꿈 \t:tab
